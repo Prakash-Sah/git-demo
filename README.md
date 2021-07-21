@@ -1,3 +1,3 @@
 # git-demo
 This repo is for git demo.
- Updated
+ Updated in the main branch
